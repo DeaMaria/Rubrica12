@@ -7,6 +7,7 @@ import org.apache.wicket.Page;
 import org.apache.wicket.Session;
 import org.apache.wicket.authroles.authentication.AbstractAuthenticatedWebSession;
 import org.apache.wicket.markup.html.WebPage;
+import org.apache.wicket.protocol.http.WebApplication;
 import org.apache.wicket.request.Request;
 import org.apache.wicket.request.Response;
 import org.apache.wicket.spring.injection.annot.SpringComponentInjector;
@@ -21,15 +22,14 @@ import org.springframework.stereotype.Component;
 import org.wicketstuff.annotation.scan.AnnotatedMountScanner;
 
 import de.agilecoders.wicket.core.Bootstrap;
-import es.andreea.edu.components.HomePage;
-import es.andreea.edu.session.AppWebSession;
+import es.andreea.edu.webpages.HomePage;
 
 
 @Component
 @EnableAutoConfiguration
 @ComponentScan
 @SpringBootApplication
-public class WicketWebApplication extends AbstractWicketWebApplication {
+public class WicketWebApplication extends WebApplication {
 
 	private static final Logger logger = LogManager.getLogger(WicketWebApplication.class.getName());
 

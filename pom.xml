@@ -17,6 +17,7 @@
 
 	<repositories>
 
+
 		<repository>
 			<id>wicketstuff-core-releases</id>
 			<url>https://oss.sonatype.org/content/repositories/releases</url>
@@ -24,6 +25,8 @@
 				<enabled>true</enabled>
 			</releases>
 		</repository>
+
+
 
 	</repositories>
 
@@ -56,10 +59,10 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.wicketstuff</groupId>
-			<artifactId>wicketstuff-core</artifactId>
-			<version>${wicket.stuff}</version>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-log4j2</artifactId>
 		</dependency>
+
 		<dependency>
 			<groupId>org.wicketstuff</groupId>
 			<artifactId>wicketstuff-annotation</artifactId>
@@ -97,12 +100,7 @@
 			<artifactId>wicket-extensions</artifactId>
 			<version>${wicket.core}</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket -->
-		<dependency>
-			<groupId>org.apache.wicket</groupId>
-			<artifactId>wicket</artifactId>
-			<version>${wicket.core}</version>
-		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket-spring -->
 		<dependency>
 			<groupId>org.apache.wicket</groupId>
@@ -128,8 +126,17 @@
 			<version>${wicket.bootstrap}</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.1.0</version>
+		</dependency>
+
+
+
 	</dependencies>
-	
+
 	<build>
 		<resources>
 			<resource>
@@ -181,7 +188,7 @@
 		<junit.version>4.12</junit.version>
 
 		<!-- The main class to start by executing java -jar -->
-		<start-class>es.gorka.edu.WicketWebApplication</start-class>
+		<start-class>es.andreea.edu.WicketWebApplication</start-class>
 	</properties>
 
 </project>
