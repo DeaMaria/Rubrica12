@@ -119,6 +119,11 @@
 			<artifactId>wicket-bootstrap-extensions</artifactId>
 			<version>${wicket.bootstrap}</version>
 		</dependency>
+		
+		<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
 
 		<dependency>
 			<groupId>de.agilecoders.wicket</groupId>
@@ -175,7 +180,10 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
-
+ <plugin>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-maven-plugin</artifactId>
+        </plugin>
 
 		</plugins>
 	</build>

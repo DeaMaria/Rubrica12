@@ -1,12 +1,53 @@
-[INFO ] 2017-02-19 02:52:53.234 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 12088 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
-[DEBUG] 2017-02-19 02:52:53.235 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
-[INFO ] 2017-02-19 02:52:53.236 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
-[INFO ] 2017-02-19 02:52:56.612 [main] WicketWebApplication - Started WicketWebApplication in 4.397 seconds (JVM running for 22.729)
-[INFO ] 2017-02-19 14:44:25.208 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 12632 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
-[DEBUG] 2017-02-19 14:44:25.209 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
-[INFO ] 2017-02-19 14:44:25.211 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
-[INFO ] 2017-02-19 14:44:28.775 [main] WicketWebApplication - Started WicketWebApplication in 4.824 seconds (JVM running for 41.879)
-[INFO ] 2017-02-19 14:47:04.519 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 7760 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
-[DEBUG] 2017-02-19 14:47:04.523 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
-[INFO ] 2017-02-19 14:47:04.523 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
-[INFO ] 2017-02-19 14:47:06.650 [main] WicketWebApplication - Started WicketWebApplication in 3.046 seconds (JVM running for 12.067)
+[INFO ] 2017-02-20 12:25:51.173 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 14936 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:25:51.311 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:25:51.326 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:25:54.247 [main] WicketWebApplication - Started WicketWebApplication in 4.782 seconds (JVM running for 52.37)
+[INFO ] 2017-02-20 12:26:35.604 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 15868 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:26:35.608 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:26:35.609 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:26:37.684 [main] WicketWebApplication - Started WicketWebApplication in 3.006 seconds (JVM running for 11.568)
+[INFO ] 2017-02-20 12:30:29.780 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 12984 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:30:29.783 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:30:29.784 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:30:31.861 [main] WicketWebApplication - Started WicketWebApplication in 3.044 seconds (JVM running for 12.149)
+[INFO ] 2017-02-20 12:31:11.270 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 8572 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:31:11.271 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:31:11.272 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:31:14.050 [main] WicketWebApplication - Started WicketWebApplication in 3.826 seconds (JVM running for 12.259)
+[INFO ] 2017-02-20 12:33:13.115 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 12196 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:33:13.116 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:33:13.118 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:33:18.598 [main] WicketWebApplication - Started WicketWebApplication in 8.348 seconds (JVM running for 15.901)
+[INFO ] 2017-02-20 12:36:42.349 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 5664 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:36:42.350 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:36:42.351 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:36:46.180 [main] WicketWebApplication - Started WicketWebApplication in 4.811 seconds (JVM running for 6.746)
+[INFO ] 2017-02-20 12:38:09.390 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 6868 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:38:09.391 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:38:09.393 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:38:15.013 [main] WicketWebApplication - Started WicketWebApplication in 6.579 seconds (JVM running for 8.396)
+[INFO ] 2017-02-20 12:39:12.922 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 13832 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:39:12.923 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:39:12.924 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:39:16.322 [main] WicketWebApplication - Started WicketWebApplication in 4.366 seconds (JVM running for 6.391)
+[INFO ] 2017-02-20 12:41:12.000 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 8732 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:41:12.000 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:41:12.015 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:41:27.093 [main] WicketWebApplication - Started WicketWebApplication in 18.669 seconds (JVM running for 35.465)
+[INFO ] 2017-02-20 12:42:29.964 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 6380 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:42:29.965 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:42:29.966 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:42:33.057 [main] WicketWebApplication - Started WicketWebApplication in 4.326 seconds (JVM running for 6.185)
+[INFO ] 2017-02-20 12:43:37.431 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 2540 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:43:37.431 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:43:37.431 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:43:55.736 [main] WicketWebApplication - Started WicketWebApplication in 21.726 seconds (JVM running for 30.696)
+[INFO ] 2017-02-20 12:44:44.013 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 7952 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 12:44:44.013 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 12:44:44.028 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 12:45:06.748 [main] WicketWebApplication - Started WicketWebApplication in 29.809 seconds (JVM running for 41.394)
+[INFO ] 2017-02-20 13:10:24.343 [main] WicketWebApplication - Starting WicketWebApplication on ANDREEA with PID 4944 (C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12\target\classes started by deama in C:\Users\deama\Desktop\2H\DDI\rubrica12\Rubrica12)
+[DEBUG] 2017-02-20 13:10:24.344 [main] WicketWebApplication - Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+[INFO ] 2017-02-20 13:10:24.345 [main] WicketWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-02-20 13:10:31.025 [localhost-startStop-1] WicketWebApplication - initializated webpage
+[INFO ] 2017-02-20 13:10:33.071 [main] WicketWebApplication - Started WicketWebApplication in 9.766 seconds (JVM running for 18.228)
